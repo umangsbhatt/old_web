@@ -33,23 +33,24 @@ disqus:
   categories: 
 
 # if you don't have any of social below, comment the line
-facebook: umangsbhatt
-twitter: umangsbhatt
-# google: mygoogle
-instagram: umangsbhatt
-# pinterest: mypinterest
 linkedin: umangsbhatt
+medium: umangsbhatt
+twitter: umangsbhatt
+instagram: umangsbhatt
+facebook: umangsbhatt
+github: umangsbhatt
+email: umang@cmu.com
+# google: mygoogle
+# pinterest: mypinterest
 # youtube: myyoutube
 # spotify: myspotify
-# github: umangsbhatt
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: umangsbhatt
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: umang@cmu.com
+
 
 authors:
     umangsbhatt:
