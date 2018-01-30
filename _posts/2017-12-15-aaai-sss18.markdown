@@ -2,7 +2,8 @@
 title: "Maintaining the Humanity of Our Models"
 layout: post
 date: 2017-12-15
-tag: research
+tag: 
+- research
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Paper for AAAI 2018 Spring Symposium on AI and Society: Ethics, Safety, and Trustworthiness in Intelligent Agents"
