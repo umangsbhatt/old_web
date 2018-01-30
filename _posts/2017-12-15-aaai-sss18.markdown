@@ -1,0 +1,21 @@
+---
+title: "Maintaining the Humanity of Our Models"
+layout: post
+date: 2017-12-15
+tag: research
+projects: true
+hidden: true # don't count this post in blog pagination
+description: Paper for AAAI 2018 Spring Symposium on AI and Society: Ethics, Safety, and Trustworthiness in Intelligent Agents
+category: project
+author: umangsbhatt
+externalLink: false
+---
+
+Every spring, AAAI hosts spring symposia to create intimate discussion environments for AI researchers to ideate, share, and guide the direction of the field. This upcoming year AAAI is holding one such symposium on AI and Society. Not only having read industry white papers and speculative books on this topic but also having studied and extended academic, theoretical advances in AI, I thought I would collect my thoughts and scribe a short piece outlining the direction we ought to take as researchers. The result was a paper titled *Maintaining the Humanity of Our Models* that was recently accepted to the symposium and will appear in its techincal reports.
+
+This paper reveals what we, as a research community, must solidfy to facilitate mass machine learning adoption: explainability of algorithm’s behavior to the laymen, robustness to biased data, and mindfulness of societal impact of predictions. Check it out [here]!
+
+I'm looking forward to present this paper and discussing AI and Society with researchers at the symposium this coming March!
+
+[here]: http://umangsbhatt.github.io/assets/Bhatt_Final.pdf
+
