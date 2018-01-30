@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I'm currently a junior at Carnegie Mellon majoring in Electrical and Computer Engineering with a concentration in software systems. I'm interested in the intersection of machine learning, entrepreneurship, and social good, especially in how entrepreneurs can channel novel ML search to create value in society. I'm also interested in learning more about behavioral science, medical diagnostics, and vehicle telematics.
+<p>I'm currently a junior at Carnegie Mellon majoring in Electrical and Computer Engineering with a concentration in software systems. I'm interested in the intersection of machine learning, entrepreneurship, and social good. I'm especially excited by how entrepreneurs can channel novel ML research to start ventures that do good for others. I'm also interested in learning more about behavioral science, medical diagnostics, and vehicle telematics.
 <br/>
 <br/>
 I also love dancing bhangra, watching the Golden State Warriors dazzle, and volunteering with BAPS.</p>
