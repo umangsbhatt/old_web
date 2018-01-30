@@ -92,7 +92,7 @@ post-advance-links: [blog]
 show-author: true
 
 # do you want some animations?
-animation: false
+animation: true
 
 plugins:
   - jekyll-seo-tag
