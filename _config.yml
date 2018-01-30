@@ -12,12 +12,11 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+url: http://umangsbhatt.github.io
 
 permalink: /:title/
 
@@ -37,12 +36,12 @@ disqus:
 facebook: umangsbhatt
 twitter: umangsbhatt
 # google: mygoogle
-# instagram: umangsbhatt
+instagram: umangsbhatt
 # pinterest: mypinterest
-# linkedin: umangsbhatt
+linkedin: umangsbhatt
 # youtube: myyoutube
 # spotify: myspotify
-github: umangsbhatt
+# github: umangsbhatt
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -53,7 +52,7 @@ medium: umangsbhatt
 email: umang@cmu.com
 
 authors:
-    johndoe:
+    umangsbhatt:
         name: Umang Bhattt
         bio: A Man who travels the world eating noodles
         external-image: false
