@@ -15,4 +15,4 @@ Every spring, AAAI hosts spring symposia to create intimate discussion environme
 
 This paper reveals what we, as a research community, must solidfy to facilitate mass machine learning adoption: explainability of algorithm’s behavior to the laymen, robustness to biased data, and mindfulness of societal impact of predictions. Check it out  <a href="http://umangsbhatt.github.io/assets/Bhatt_Final.pdf" target="_blank">here</a>!
 
-I'm looking forward to present this paper and discussing AI and Society with researchers at the symposium this coming March!
+I'm looking forward to presenting this paper and discussing AI and Society with fellow researchers at the symposium this coming March!
