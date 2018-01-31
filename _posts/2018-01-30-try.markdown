@@ -2,8 +2,6 @@
 title: "Test"
 layout: post
 date: 2018-01-30 22:48
-tag:
-- test
 category: blog
 author: umangsbhatt
 description: Trial
