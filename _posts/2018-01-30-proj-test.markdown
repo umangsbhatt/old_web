@@ -3,7 +3,7 @@ title: "Trial"
 layout: post
 date: 2018-01-30
 tag: jekyll
-projects: true
+projects: false
 hidden: true # don't count this post in blog pagination
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: blog
